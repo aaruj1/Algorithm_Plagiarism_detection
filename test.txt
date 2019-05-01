@@ -1,0 +1,1 @@
+LCS problem is the problem of finding the longest subsequence common to all sequences, Shorter sequences are conveniently described using the term prefix

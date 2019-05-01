@@ -1,0 +1,109 @@
+
+=====================================================================================
+Source File Content : 
+The longest common subsequence LCS problem is the problem of finding the longest subsequence common to all sequences in a set of sequences (often just two sequences).
+
+
+Test File Content : 
+LCS problem is the problem of finding the longest subsequence common to all sequences, Shorter sequences are conveniently described using the term prefix
+
+
+Length of LCS Pattern : 109
+LCS Found : LCS problem is the problem of finding the longest subsequence common to all sequences e sequences oen ust t e
+Percentage of LCS pattern match : 71.0 % 
+
+
+Final common words length: 96
+Final common words ::  LCS problem is the problem of finding the longest subsequence common to all sequences sequences
+Percentage of Plagiarism : 62.0 % 
+Execution time: 0.000557 seconds
+
+
+=====================================================================================
+
+=====================================================================================
+Source File Content : 
+This problem is a classic computer science problem, the basis of data comparison programs such as the diff utility, and has applications in computational linguistics and bioinformatics.
+
+
+Test File Content : 
+LCS problem is the problem of finding the longest subsequence common to all sequences, Shorter sequences are conveniently described using the term prefix
+
+
+Length of LCS Pattern : 69
+LCS Found :  problem is te problem the st comon oa sucs te un a conin ci ingt  fi
+Percentage of LCS pattern match : 45.0 % 
+
+
+Final common words length: 23
+Final common words ::  problem is problem the
+Percentage of Plagiarism : 14.0 % 
+Execution time: 0.000444 seconds
+
+
+=====================================================================================
+
+=====================================================================================
+Source File Content : 
+It is also widely used by revision control systems such as Git for reconciling multiple changes made to a revision-controlled collection of files.
+
+
+Test File Content : 
+LCS problem is the problem of finding the longest subsequence common to all sequences, Shorter sequences are conveniently described using the term prefix
+
+
+Length of LCS Pattern : 59
+LCS Found :  is lo idel useen contol sste suc ar conintleced sinte e fi
+Percentage of LCS pattern match : 38.0 % 
+
+
+Final common words length: 3
+Final common words ::  is
+Percentage of Plagiarism : 1.0 % 
+Execution time: 0.000359 seconds
+
+
+=====================================================================================
+
+=====================================================================================
+Source File Content : 
+The LCS problem has an optimal substructure: the problem can be broken down into smaller, simple subproblems, which can be broken down into yet simpler subproblems, and so on, until, finally, the solution becomes trivial.
+
+
+Test File Content : 
+LCS problem is the problem of finding the longest subsequence common to all sequences, Shorter sequences are conveniently described using the term prefix
+
+
+Length of LCS Pattern : 88
+LCS Found : LCS problem is the problem n e oen on to all seues, h ce re oninty esrbed sin the tem ri
+Percentage of LCS pattern match : 57.0 % 
+
+
+Final common words length: 38
+Final common words ::  LCS problem is the problem to all the
+Percentage of Plagiarism : 24.0 % 
+Execution time: 0.000539 seconds
+
+
+=====================================================================================
+
+=====================================================================================
+Source File Content : 
+The subproblems become simpler as the sequences become shorter. Shorter sequences are conveniently described using the term prefix.
+
+Test File Content : 
+LCS problem is the problem of finding the longest subsequence common to all sequences, Shorter sequences are conveniently described using the term prefix
+
+
+Length of LCS Pattern : 103
+LCS Found :  problems e ple  the sequence com se Shorter sequences are conveniently described using the term prefix
+Percentage of LCS pattern match : 67.0 % 
+
+
+Final common words length: 72
+Final common words ::  the Shorter sequences are conveniently described using the term prefix
+Percentage of Plagiarism : 46.0 % 
+Execution time: 0.000374 seconds
+
+
+=====================================================================================

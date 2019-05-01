@@ -1,0 +1,5 @@
+The longest common subsequence LCS problem is the problem of finding the longest subsequence common to all sequences in a set of sequences (often just two sequences).
+This problem is a classic computer science problem, the basis of data comparison programs such as the diff utility, and has applications in computational linguistics and bioinformatics.
+It is also widely used by revision control systems such as Git for reconciling multiple changes made to a revision-controlled collection of files.
+The LCS problem has an optimal substructure: the problem can be broken down into smaller, simple subproblems, which can be broken down into yet simpler subproblems, and so on, until, finally, the solution becomes trivial.
+The subproblems become simpler as the sequences become shorter. Shorter sequences are conveniently described using the term prefix.
